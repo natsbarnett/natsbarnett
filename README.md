@@ -1,7 +1,10 @@
 ### Hi there 👋
 I am Nats Barnett!
-Pronouns: any 🫡
-I am currently a multimedia student specializing in web development! ⌨️
+- Pronouns: any 🫡
+- Languages: EN / FR / 日本語を勉強中
+- I am currently a multimedia student specializing in web development! ⌨️
+- Part of Simporiem Studios ([Luxiem Dating Sim](https://simporiem-studios.itch.io/light-the-way))
+
 
 <!--
 **natsbarnett/natsbarnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
