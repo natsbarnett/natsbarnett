@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Nats Barnett!
+Pronouns: any 🫡
+I am currently a multimedia student specializing in web development! ⌨️
 
 <!--
 **natsbarnett/natsbarnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
