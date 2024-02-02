@@ -6,7 +6,7 @@ I am Nats Barnett!
 - Part of Simporiem Studios ([Luxiem Dating Sim](https://simporiem-studios.itch.io/light-the-way))
 - See my [portfolio](https://natsbarnett.github.io/portfolio-nats-barnett/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsbarnette&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsbarnett&theme=radical"/>
 <!--
 **natsbarnett/natsbarnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
