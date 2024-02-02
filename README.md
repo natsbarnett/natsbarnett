@@ -5,7 +5,7 @@ I am Nats Barnett!
 - I am currently a multimedia student specializing in web development! ⌨️
 - Part of Simporiem Studios ([Luxiem Dating Sim](https://simporiem-studios.itch.io/light-the-way))
 - See my [portfolio](https://natsbarnett.github.io/portfolio-nats-barnett/)
-<div style="display:flex">
+<div style="display:flex; justify-content:center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsbarnett&theme=cobalt"/>
 <img src="https://github-readme-stats.vercel.app/api?username=natsbarnett&theme=cobalt&show_icons=true"/></div>
 
