@@ -7,7 +7,7 @@ I am Nats Barnett!
 - See my [portfolio](https://natsbarnett.github.io/portfolio-nats-barnett/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsbarnett&theme=cobalt"/>
-[![Nats Barnett's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsbarnett)](https://github.com/anuraghazra/github-readme-stats)
+[Nats Barnett's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsbarnett)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **natsbarnett/natsbarnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
