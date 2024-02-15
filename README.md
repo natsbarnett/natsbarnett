@@ -2,7 +2,7 @@
 I am Nats Barnett!
 - Pronouns: any 🫡
 - Languages: EN / FR / 日本語を勉強中
-- I am currently a multimedia student specializing in web development! ⌨️
+- I am currently a multimedia student majoring in web development! ⌨️
 - Part of Simporiem Studios ([Luxiem Dating Sim](https://simporiem-studios.itch.io/light-the-way))
 - See my [portfolio](https://natsbarnett.github.io/portfolio-nats-barnett/)
 
